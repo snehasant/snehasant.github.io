@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Immunology, University of Melbourne, 2018
+* Master of Science (Hons) in Biotechnology, University of Pune, 2006
+* Bachelor of Science (Hons) in Biotechnology, University of Pune, 2003
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher (2018 - Present)
+  * Peter MacCallum Cancer Centre
+  * Duties included: Breast Cancer research
+  * Working with: <a href=https://www.petermac.org/users/prof-sherene-loi>Professor Sherene Loi</a>
+  
+* Graduate Research Assistant (2016-2018)
+  * Peter Doherty Institute, The University of Melbourne
+  * Duties included: CD8+ T Cell resesearch
+  * Supervisor: <a href=https://www.doherty.edu.au/people/professor-katherine-kedzierska>Professor Katherine Kedzierska </a>
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Immunology
+* Breast Cancer Researc
+* Molecular Biology
+  * PCR
+  * Single Cell RNA
+* Data Science and Visualization
+  * R
+  * MATLAB
+  * Python
 
 Publications
 ======
